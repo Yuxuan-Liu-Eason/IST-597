@@ -1,5 +1,5 @@
 
-# Abstract
+# Deep Neural Network Based Image Compression Encoders
 Lossy image compression has become a rising topic in the
 community especially after deep learning is applied to it. As
 proved by Strumpler et al [13], building robust DNN based
